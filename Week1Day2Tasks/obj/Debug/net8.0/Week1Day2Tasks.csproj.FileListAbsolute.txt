@@ -1,0 +1,14 @@
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\bin\Debug\net8.0\Week1Day2Tasks.exe
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\bin\Debug\net8.0\Week1Day2Tasks.deps.json
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\bin\Debug\net8.0\Week1Day2Tasks.runtimeconfig.json
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\bin\Debug\net8.0\Week1Day2Tasks.dll
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\bin\Debug\net8.0\Week1Day2Tasks.pdb
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\Week1Day2Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\Week1Day2Tasks.AssemblyInfoInputs.cache
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\Week1Day2Tasks.AssemblyInfo.cs
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\Week1Day2Tasks.csproj.CoreCompileInputs.cache
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\Week1Day2Tasks.dll
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\refint\Week1Day2Tasks.dll
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\Week1Day2Tasks.pdb
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\Week1Day2Tasks.genruntimeconfig.cache
+D:\C#\Week1Day2Tasks\Week1Day2Tasks\obj\Debug\net8.0\ref\Week1Day2Tasks.dll
